@@ -23,7 +23,7 @@ setup(
     ],
     install_requires=[
         "appdirs==1.4.4",
-        "certifi==2021.5.30",
+        "certifi",
         "chardet==3.0.4",
         "idna==2.10",
         "packaging==20.4",
