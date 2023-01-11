@@ -22,15 +22,15 @@ setup(
         "Programming Language :: Python :: 3.3",
     ],
     install_requires=[
-        "appdirs==1.4.4",
+        "appdirs>=1.4.4",
         "certifi",
-        "chardet==3.0.4",
-        "idna==2.10",
-        "packaging==20.4",
-        "pyparsing==2.4.7",
-        "python-dateutil==2.8.1",
-        "requests==2.26.0",
-        "six==1.15.0",
-        "urllib3==1.26.7"
+        "chardet>=3.0.4",
+        "idna>=2.10",
+        "packaging>=20.4",
+        "pyparsing>=2.4.7",
+        "python-dateutil>=2.8.1",
+        "requests",
+        "six>=1.15.0",
+        "urllib3"
     ],
 )
